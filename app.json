@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "munch",
+    "slug": "munch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "munch"
+}
